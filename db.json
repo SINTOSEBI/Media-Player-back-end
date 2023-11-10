@@ -1,0 +1,94 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "LEO",
+      "url": "https://wallpaperbuzz.net/wp-content/uploads/2023/02/leo-bloody-sweet-poster-images.jpg",
+      "embedLink": "http://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "2",
+      "caption": "King of Kotha",
+      "url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/02/03/1149106-dulqeer-salmaan-kok.gif?im=Resize=(1280,720)",
+      "embedLink": "http://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "3",
+      "caption": "Jailer",
+      "url": "https://www.kerala9.com/wp-content/uploads/2023/08/Jailer-Movie-hd-posters.jpg",
+      "embedLink": "http://www.youtube.com/embed/lM8h5Mm6ODo"
+    },
+    {
+      "id": "4",
+      "caption": "Jawan",
+      "url": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/jawan-offcial-poster.jpg",
+      "embedLink": "http://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "5",
+      "caption": "RDX",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzE3NThhNDEtMzllNi00MjIxLWFiYzAtMzYzZjYzNWFiZmZjXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "embedLink": "http://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "6",
+      "caption": "Kushi",
+      "url": "https://m.media-amazon.com/images/M/MV5BODI0NzBlODEtZTY1YS00NTVmLTlmNTAtY2MwN2QwZTIwZTUwXkEyXkFqcGdeQXVyNjU2NTk0NTE@._V1_.jpg",
+      "embedLink": "http://www.youtube.com/embed/MBlgaPguCaQ"
+    },
+    {
+      "id": "7",
+      "caption": "Premam",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Premam_film_poster.jpg",
+      "embedLink": "http://www.youtube.com/embed/0G2VxhV_gXM"
+    },
+    {
+      "id": "8",
+      "caption": "Banglore days",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/%27Bangalore_Days%27_2014_Malayalam_Film_-_Poster.jpg",
+      "embedLink": "http://www.youtube.com/embed/dz3ik3XzR54"
+    },
+    {
+      "id": "9",
+      "caption": "Tadap",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Tadap_film_poster.jpg",
+      "embedLink": "http://www.youtube.com/embed/iwhpS4ow7Zc"
+    },
+    {
+      "id": "10",
+      "caption": "Pathaan",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTgzNjBjYTctOGJiZi00MTliLTk0YzYtNDJmYTQyMDdkMjQ5XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg",
+      "embedLink": "http://www.youtube.com/embed/huxhqphtDrM"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Malayalam movie songs",
+      "allvideos": [
+        {
+          "id": "7",
+          "caption": "Premam",
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Premam_film_poster.jpg",
+          "embedLink": "http://www.youtube.com/embed/0G2VxhV_gXM"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi Movie songs",
+      "allvideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Tamil movie song",
+      "allvideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": "Telungu movie songs",
+      "allvideos": [],
+      "id": 4
+    }
+  ],
+  "history": []
+}
